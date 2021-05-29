@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="username">Username : </string>
+    <string name="name">Name : %s</string>
+    <string name="location">Lokasi : %s</string>
+    <string name="followers">Mengikuti</string>
+    <string name="following">pengikut</string>
+    <string name="avatar">avatar</string>
+    <string name="Setting">pengaturan</string>
+    <string name="LanguageSetting">bahasa</string>
+    <string name="search">Cari</string>
+    <string name="post">Repository</string>
+</resources>
